@@ -1,15 +1,18 @@
 # Applied ML Projects
 
-Author: Your Name Here
 
-This repository contains applied machine learning projects using a modern Python workflow.
+**Author:** Blessing Aganaga  
+**Date:** November 2025  
+
+This repository contains applied machine learning projects using a modern Python workflow.  
 Each project follows a professional structure with reproducible environments, documented analysis steps, and clear results.
 
---- 
+---
 
-Projects index:
+## Projects Index
 
-- [**Project 01: Title Here**](project01/README.md)
-- [**Project 02: Title Here**](project02/README.md)
-- [**Project 03: Title Here**](project03/README.md)
-- [**Project 04: Title Here**](project04/README.md)
+- [**Project 01: Introduction to Machine Learning**](../notebooks/project01/ml01_blessingaganaga.ipynb)
+- [**Project 02: Regression Models**](../notebooks/project02/ml02_blessingaganaga.ipynb)
+- [**Project 03: Building a Classifier (Titanic)**](../notebooks/project03/ml03_blessingaganaga.ipynb)
+- Project 04: TBD
+
