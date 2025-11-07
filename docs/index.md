@@ -1,6 +1,5 @@
 # Applied ML Projects
 
-
 **Author:** Blessing Aganaga  
 **Date:** November 2025  
 
@@ -11,8 +10,9 @@ Each project follows a professional structure with reproducible environments, do
 
 ## Projects Index
 
-- [**Project 01: Introduction to Machine Learning**](../notebooks/project01/ml01_blessingaganaga.ipynb)
-- [**Project 02: Regression Models**](../notebooks/project02/ml02_blessingaganaga.ipynb)
-- [**Project 03: Building a Classifier (Titanic)**](../notebooks/project03/ml03_blessingaganaga.ipynb)
-- Project 04: TBD
+- [**Project 01: Introduction to Machine Learning**](project01/README.md)
+- [**Project 02: Regression Models**](project02/README.md)
+- [**Project 03: Building a Classifier (Titanic)**](project03/README.md)
+- [**Project 04: TBD**](project04/README.md)
+
 
