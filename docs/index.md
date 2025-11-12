@@ -13,6 +13,5 @@ Each project follows a professional structure with reproducible environments, do
 - [**Project 01: Introduction to Machine Learning**](project01/README.md)
 - [**Project 02: Regression Models**](project02/README.md)
 - [**Project 03: Building a Classifier (Titanic)**](project03/README.md)
-- [**Project 04: TBD**](project04/README.md)
-
+- [**Project 04: Predicting a Continuous Target (Titanic)**](project04/README.md)
 
