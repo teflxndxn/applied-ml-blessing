@@ -7,7 +7,8 @@
 **Best model:** Ridge (Test R² ≈ 0.45, lower RMSE/MAE than baseline Linear).  
 **Notes:** Polynomial fits did not outperform regularized linear models; fares are skewed with outliers.
 
-- 📓 Full notebook: [ml04_blessing.ipynb](../notebooks/project04/ml04_blessing.ipynb)  
+- 📓 Full notebook: [View on GitHub](https://github.com/teflxndxn/applied-ml-blessing/blob/main/notebooks/project04/ml04_blessing.ipynb)
+ 
 - 📁 Source folder: `notebooks/project04/`
 
 ## Results Summary (Test)
