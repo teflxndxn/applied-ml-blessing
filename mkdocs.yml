@@ -1,3 +1,42 @@
+site_name: Applied ML Projects
+site_url: https://teflxndxn.github.io/applied-ml-blessing/
+repo_url: https://github.com/teflxndxn/applied-ml-blessing
+site_description: Professional applied machine learning projects by Blessing Aganaga
+site_author: Blessing Aganaga
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.details
+
 nav:
   - Home: index.md
   - Project 01:
