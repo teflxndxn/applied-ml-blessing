@@ -52,9 +52,12 @@ Each model was trained and tested using a **stratified train/test split** for fa
 
 ---
 
+
+
 ## 💻 Notebook Link
 
-📘 [Open the full Jupyter notebook here →](../../notebooks/project03/ml03_blessingaganaga.ipynb)
+The notebook for this project is available locally in the `notebooks/project03` folder.
+
 
 ---
 
